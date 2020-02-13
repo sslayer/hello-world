@@ -16,3 +16,6 @@
 add one line!
 
 # feature-A added!
+=======
+---
+branch fix-B added!
